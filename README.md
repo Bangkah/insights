@@ -2,21 +2,19 @@
 
 > Personal GitHub activity and statistics for [@Bangkah](https://github.com/Bangkah)
 
-**Last updated:** `YYYY-MM-DD HH:mm UTC`
-
----
+<!-- DASHBOARD:START -->
 
 ## 👤 Profile
 
 | Metric | Value |
 |---|---:|
-| Username | Bangkah |
-| Name | Muhammad Dhiyaul Atha |
+| Username | ... |
+| Name | ... |
 | Followers | ... |
 | Following | ... |
 | Account Created | ... |
 | Public Repositories | ... |
-| Total Repositories | ... |
+| Public Gists | ... |
 
 ---
 
@@ -29,11 +27,11 @@
 | Forked Repositories | ... |
 | Archived Repositories | ... |
 | Public Repositories | ... |
-| Private Repositories | ... |
 | Total Stars Received | ... |
 | Total Forks Received | ... |
-| Total Open Issues | ... |
-| Total Open PRs | ... |
+| Total Watchers | ... |
+| Repositories with Stars | ... |
+| Repositories with Forks | ... |
 
 ---
 
@@ -132,39 +130,50 @@
 
 ## 🏆 Top Repositories
 
-| Repository | Stars | Forks | Commits | PRs | Issues |
-|---|---:|---:|---:|---:|---:|
-| Atha | ... | ... | ... | ... | ... |
-| NetInfo | ... | ... | ... | ... | ... |
-| Bangkah Launcher | ... | ... | ... | ... | ... |
-| ... | ... | ... | ... | ... | ... |
-
----
-
-## 🔥 Most Active Repositories
-
-Ranked by recent activity.
-
-| # | Repository | Commits | PRs | Issues | Last Activity |
+| # | Repository | Stars | Forks | Issues | Updated |
 |---:|---|---:|---:|---:|---|
 | 1 | ... | ... | ... | ... | ... |
 | 2 | ... | ... | ... | ... | ... |
 | 3 | ... | ... | ... | ... | ... |
 | 4 | ... | ... | ... | ... | ... |
 | 5 | ... | ... | ... | ... | ... |
+| 6 | ... | ... | ... | ... | ... |
+| 7 | ... | ... | ... | ... | ... |
+| 8 | ... | ... | ... | ... | ... |
+| 9 | ... | ... | ... | ... | ... |
+| 10 | ... | ... | ... | ... | ... |
+
+---
+
+## 🔥 Most Recently Active Repositories
+
+Ranked by latest repository activity.
+
+| # | Repository | Stars | Forks | Last Activity |
+|---:|---|---:|---:|---|
+| 1 | ... | ... | ... | ... |
+| 2 | ... | ... | ... | ... |
+| 3 | ... | ... | ... | ... |
+| 4 | ... | ... | ... | ... |
+| 5 | ... | ... | ... | ... |
+| 6 | ... | ... | ... | ... |
+| 7 | ... | ... | ... | ... |
+| 8 | ... | ... | ... | ... |
+| 9 | ... | ... | ... | ... |
+| 10 | ... | ... | ... | ... |
 
 ---
 
 ## 🧑‍💻 Languages
 
-| Language | Code | Percentage |
-|---|---:|---:|
-| PHP | ... | ...% |
-| HTML | ... | ...% |
-| Shell | ... | ...% |
-| Python | ... | ...% |
-| JavaScript | ... | ...% |
-| C | ... | ...% |
+| Language | Percentage |
+|---|---:|
+| ... | ...% |
+| ... | ...% |
+| ... | ...% |
+| ... | ...% |
+| ... | ...% |
+| ... | ...% |
 
 ---
 
@@ -194,6 +203,8 @@ Ranked by recent activity.
 | ... | ... | ... | ... | ... | ... |
 | ... | ... | ... | ... | ... | ... |
 | ... | ... | ... | ... | ... | ... |
+| ... | ... | ... | ... | ... | ... |
+| ... | ... | ... | ... | ... | ... |
 
 ---
 
@@ -201,6 +212,9 @@ Ranked by recent activity.
 
 | Repository | Release | Date |
 |---|---|---|
+| ... | ... | ... |
+| ... | ... | ... |
+| ... | ... | ... |
 | ... | ... | ... |
 | ... | ... | ... |
 
@@ -215,6 +229,11 @@ Ranked by recent activity.
 | ... | Review | ... | ... |
 | ... | Issue | ... | ... |
 | ... | Release | ... | ... |
+| ... | Commit | ... | ... |
+| ... | Pull Request | ... | ... |
+| ... | Issue | ... | ... |
+| ... | Review | ... | ... |
+| ... | Release | ... | ... |
 
 ---
 
@@ -222,11 +241,11 @@ Ranked by recent activity.
 
 | Achievement | Status |
 |---|---|
-| Pull Shark | ✅ |
-| Pair Extraordinaire | ✅ |
-| YOLO | ✅ |
-| Quickdraw | ✅ |
-| Developer Program Member | ✅ |
+| Pull Shark | ... |
+| Pair Extraordinaire | ... |
+| YOLO | ... |
+| Quickdraw | ... |
+| Developer Program Member | ... |
 
 ---
 
@@ -244,3 +263,5 @@ Profile: [holopin.io/@bangkah](https://holopin.io/@bangkah)
 | Data Source | GitHub API |
 | Last Synchronization | ... |
 | Dashboard Version | ... |
+
+<!-- DASHBOARD:END -->
