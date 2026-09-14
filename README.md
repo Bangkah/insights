@@ -1,8 +1,8 @@
 # 📊 GitHub Personal Dashboard
 
-> Personal activity and statistics for [@Bangkah](https://github.com/Bangkah)
+> Personal GitHub activity and statistics for [@Bangkah](https://github.com/Bangkah)
 
-**Last updated:** 2026-09-14
+**Last updated:** `YYYY-MM-DD HH:mm UTC`
 
 ---
 
@@ -11,11 +11,12 @@
 | Metric | Value |
 |---|---:|
 | Username | Bangkah |
-| Followers | 42 |
-| Following | 16 |
-| Public Repositories | 124 |
+| Name | Muhammad Dhiyaul Atha |
+| Followers | ... |
+| Following | ... |
 | Account Created | ... |
-| Profile Views | ... |
+| Public Repositories | ... |
+| Total Repositories | ... |
 
 ---
 
@@ -23,7 +24,7 @@
 
 | Metric | Value |
 |---|---:|
-| Total Repositories | 124 |
+| Total Repositories | ... |
 | Original Repositories | ... |
 | Forked Repositories | ... |
 | Archived Repositories | ... |
@@ -31,18 +32,44 @@
 | Private Repositories | ... |
 | Total Stars Received | ... |
 | Total Forks Received | ... |
+| Total Open Issues | ... |
+| Total Open PRs | ... |
 
 ---
 
-## 💻 Code & Commits
+## 📈 Contributions
+
+| Metric | Value |
+|---|---:|
+| Contributions — All Time | ... |
+| Contributions — This Year | ... |
+| Contributions — Last 365 Days | ... |
+| Current Streak | ... days |
+| Longest Streak | ... days |
+| Active Days | ... |
+| Commits | ... |
+
+### Contribution by Year
+
+| Year | Contributions |
+|---|---:|
+| 2026 | ... |
+| 2025 | ... |
+| 2024 | ... |
+| 2023 | ... |
+
+---
+
+## 💻 Commits
 
 | Metric | Value |
 |---|---:|
 | Total Commits | ... |
-| Contributions | 2,298 |
-| Current Streak | ... |
-| Longest Streak | ... |
-| Commit Days | ... |
+| Commits This Year | ... |
+| Commits Last 30 Days | ... |
+| Commits Last 90 Days | ... |
+| Active Commit Days | ... |
+| Average Commits / Active Day | ... |
 
 ---
 
@@ -50,12 +77,33 @@
 
 | Metric | Value |
 |---|---:|
-| PRs Opened | ... |
-| PRs Merged | ... |
-| PRs Closed | ... |
-| PRs Open | ... |
+| Opened | ... |
+| Merged | ... |
+| Closed | ... |
+| Currently Open | ... |
+| Reviews Submitted | ... |
+| Merge Rate | ...% |
+
+### PR Activity by Year
+
+| Year | Opened | Merged | Closed |
+|---|---:|---:|---:|
+| 2026 | ... | ... | ... |
+| 2025 | ... | ... | ... |
+| 2024 | ... | ... | ... |
+
+---
+
+## 👀 Code Reviews
+
+| Metric | Value |
+|---|---:|
+| Reviews Submitted | ... |
 | PRs Reviewed | ... |
-| Merge Rate | ... |
+| Review Comments | ... |
+| Approved | ... |
+| Changes Requested | ... |
+| Commented | ... |
 
 ---
 
@@ -63,63 +111,114 @@
 
 | Metric | Value |
 |---|---:|
-| Issues Opened | ... |
-| Issues Closed | ... |
-| Issues Open | ... |
-| Issues Assigned | ... |
+| Opened | ... |
+| Closed | ... |
+| Currently Open | ... |
+| Assigned | ... |
 
 ---
 
-## ⭐ Repository Performance
+## ⭐ Repository Impact
 
-| Repository | Stars | Forks | Issues | PRs | Last Activity |
-|---|---:|---:|---:|---:|---|
+| Metric | Value |
+|---|---:|
+| Stars Received | ... |
+| Forks Received | ... |
+| Watchers | ... |
+| Repositories with Stars | ... |
+| Repositories with Forks | ... |
+
+---
+
+## 🏆 Top Repositories
+
+| Repository | Stars | Forks | Commits | PRs | Issues |
+|---|---:|---:|---:|---:|---:|
 | Atha | ... | ... | ... | ... | ... |
 | NetInfo | ... | ... | ... | ... | ... |
 | Bangkah Launcher | ... | ... | ... | ... | ... |
+| ... | ... | ... | ... | ... | ... |
+
+---
+
+## 🔥 Most Active Repositories
+
+Ranked by recent activity.
+
+| # | Repository | Commits | PRs | Issues | Last Activity |
+|---:|---|---:|---:|---:|---|
+| 1 | ... | ... | ... | ... | ... |
+| 2 | ... | ... | ... | ... | ... |
+| 3 | ... | ... | ... | ... | ... |
+| 4 | ... | ... | ... | ... | ... |
+| 5 | ... | ... | ... | ... | ... |
 
 ---
 
 ## 🧑‍💻 Languages
 
-| Language | Usage |
-|---|---:|
-| PHP | ... |
-| HTML | ... |
-| Shell | ... |
-| Python | ... |
-| JavaScript | ... |
-| C | ... |
+| Language | Code | Percentage |
+|---|---:|---:|
+| PHP | ... | ...% |
+| HTML | ... | ...% |
+| Shell | ... | ...% |
+| Python | ... | ...% |
+| JavaScript | ... | ...% |
+| C | ... | ...% |
 
 ---
 
-## 📅 Activity
+## 📅 Monthly Activity
 
-| Period | Contributions | Commits | PRs | Issues |
-|---|---:|---:|---:|---:|
-| 2026 | ... | ... | ... | ... |
-| 2025 | ... | ... | ... | ... |
-| 2024 | ... | ... | ... | ... |
-
----
-
-## 📈 Monthly Activity
-
-| Month | Commits | PRs | Issues | Contributions |
-|---|---:|---:|---:|---:|
-| January | ... | ... | ... | ... |
-| February | ... | ... | ... | ... |
-| March | ... | ... | ... | ... |
-| April | ... | ... | ... | ... |
-| May | ... | ... | ... | ... |
-| June | ... | ... | ... | ... |
-| July | ... | ... | ... | ... |
-| August | ... | ... | ... | ... |
-| September | ... | ... | ... | ... |
+| Month | Contributions | Commits | PRs | Issues | Reviews |
+|---|---:|---:|---:|---:|---:|
+| January | ... | ... | ... | ... | ... |
+| February | ... | ... | ... | ... | ... |
+| March | ... | ... | ... | ... | ... |
+| April | ... | ... | ... | ... | ... |
+| May | ... | ... | ... | ... | ... |
+| June | ... | ... | ... | ... | ... |
+| July | ... | ... | ... | ... | ... |
+| August | ... | ... | ... | ... | ... |
+| September | ... | ... | ... | ... | ... |
+| October | ... | ... | ... | ... | ... |
+| November | ... | ... | ... | ... | ... |
+| December | ... | ... | ... | ... | ... |
 
 ---
 
-## 🏆 Achievements
+## 📦 Repository Activity
+
+| Repository | Commits | PRs | Issues | Releases | Stars |
+|---|---:|---:|---:|---:|---:|
+| ... | ... | ... | ... | ... | ... |
+| ... | ... | ... | ... | ... | ... |
+| ... | ... | ... | ... | ... | ... |
+
+---
+
+## 🚀 Releases
+
+| Repository | Release | Date |
+|---|---|---|
+| ... | ... | ... |
+| ... | ... | ... |
+
+---
+
+## 🕐 Recent Activity
+
+| Date | Type | Repository | Activity |
+|---|---|---|---|
+| ... | Commit | ... | ... |
+| ... | Pull Request | ... | ... |
+| ... | Review | ... | ... |
+| ... | Issue | ... | ... |
+| ... | Release | ... | ... |
+
+---
+
+## 🏆 GitHub Achievements
 
 | Achievement | Status |
 |---|---|
@@ -131,28 +230,17 @@
 
 ---
 
-## 🔝 Most Active Repositories
+## 🎖️ Holopin
 
-1. ...
-2. ...
-3. ...
-4. ...
-5. ...
-
----
-
-## 🕐 Recent Activity
-
-| Date | Type | Repository | Activity |
-|---|---|---|---|
-| ... | Commit | ... | ... |
-| ... | Pull Request | ... | ... |
-| ... | Issue | ... | ... |
+Profile: [holopin.io/@bangkah](https://holopin.io/@bangkah)
 
 ---
 
 ## ⚙️ Dashboard
 
-**Data source:** GitHub API  
-**Account:** `Bangkah`  
-**Last synchronization:** ...
+| Property | Value |
+|---|---|
+| GitHub Account | `Bangkah` |
+| Data Source | GitHub API |
+| Last Synchronization | ... |
+| Dashboard Version | ... |
