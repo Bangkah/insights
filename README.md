@@ -1,83 +1,158 @@
-<h1 align="center">📊 My GitHub Dashboard</h1>
+# 📊 GitHub Personal Dashboard
 
-<p align="center">
-  Personal GitHub activity & statistics
-</p>
+> Personal activity and statistics for [@Bangkah](https://github.com/Bangkah)
 
-<hr>
+**Last updated:** 2026-09-14
 
-<h2 align="center">📌 Profile Overview</h2>
+---
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bangkah&theme=tokyonight"
-    alt="GitHub Profile Details"
-  />
-</p>
+## 👤 Profile
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bangkah&theme=tokyonight"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bangkah&theme=tokyonight"
-    alt="Repositories per Language"
-  />
-</p>
+| Metric | Value |
+|---|---:|
+| Username | Bangkah |
+| Followers | 42 |
+| Following | 16 |
+| Public Repositories | 124 |
+| Account Created | ... |
+| Profile Views | ... |
 
-<h2 align="center">🔥 Contribution Streak</h2>
+---
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Bangkah&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+## 📦 Repositories
 
-<h2 align="center">📈 Activity Graph</h2>
+| Metric | Value |
+|---|---:|
+| Total Repositories | 124 |
+| Original Repositories | ... |
+| Forked Repositories | ... |
+| Archived Repositories | ... |
+| Public Repositories | ... |
+| Private Repositories | ... |
+| Total Stars Received | ... |
+| Total Forks Received | ... |
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Bangkah&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
+---
 
-<h2 align="center">💻 Languages</h2>
+## 💻 Code & Commits
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bangkah&layout=compact&langs_count=30&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
+| Metric | Value |
+|---|---:|
+| Total Commits | ... |
+| Contributions | 2,298 |
+| Current Streak | ... |
+| Longest Streak | ... |
+| Commit Days | ... |
 
-<h2 align="center">📊 Detailed GitHub Stats</h2>
+---
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Bangkah&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
-    alt="Detailed GitHub Stats"
-  />
-</p>
+## 🔀 Pull Requests
 
-<h2 align="center">🏆 Trophies</h2>
+| Metric | Value |
+|---|---:|
+| PRs Opened | ... |
+| PRs Merged | ... |
+| PRs Closed | ... |
+| PRs Open | ... |
+| PRs Reviewed | ... |
+| Merge Rate | ... |
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Bangkah&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6"
-    alt="GitHub Trophies"
-  />
-</p>
+---
 
-<h2 align="center">🎖️ Holopin</h2>
+## 🐛 Issues
 
-<p align="center">
-  <a href="https://holopin.io/@bangkah">
-    <img
-      src="https://holopin.me/bangkah"
-      alt="Bangkah Holopin Badges"
-    />
-  </a>
-</p>
+| Metric | Value |
+|---|---:|
+| Issues Opened | ... |
+| Issues Closed | ... |
+| Issues Open | ... |
+| Issues Assigned | ... |
+
+---
+
+## ⭐ Repository Performance
+
+| Repository | Stars | Forks | Issues | PRs | Last Activity |
+|---|---:|---:|---:|---:|---|
+| Atha | ... | ... | ... | ... | ... |
+| NetInfo | ... | ... | ... | ... | ... |
+| Bangkah Launcher | ... | ... | ... | ... | ... |
+
+---
+
+## 🧑‍💻 Languages
+
+| Language | Usage |
+|---|---:|
+| PHP | ... |
+| HTML | ... |
+| Shell | ... |
+| Python | ... |
+| JavaScript | ... |
+| C | ... |
+
+---
+
+## 📅 Activity
+
+| Period | Contributions | Commits | PRs | Issues |
+|---|---:|---:|---:|---:|
+| 2026 | ... | ... | ... | ... |
+| 2025 | ... | ... | ... | ... |
+| 2024 | ... | ... | ... | ... |
+
+---
+
+## 📈 Monthly Activity
+
+| Month | Commits | PRs | Issues | Contributions |
+|---|---:|---:|---:|---:|
+| January | ... | ... | ... | ... |
+| February | ... | ... | ... | ... |
+| March | ... | ... | ... | ... |
+| April | ... | ... | ... | ... |
+| May | ... | ... | ... | ... |
+| June | ... | ... | ... | ... |
+| July | ... | ... | ... | ... |
+| August | ... | ... | ... | ... |
+| September | ... | ... | ... | ... |
+
+---
+
+## 🏆 Achievements
+
+| Achievement | Status |
+|---|---|
+| Pull Shark | ✅ |
+| Pair Extraordinaire | ✅ |
+| YOLO | ✅ |
+| Quickdraw | ✅ |
+| Developer Program Member | ✅ |
+
+---
+
+## 🔝 Most Active Repositories
+
+1. ...
+2. ...
+3. ...
+4. ...
+5. ...
+
+---
+
+## 🕐 Recent Activity
+
+| Date | Type | Repository | Activity |
+|---|---|---|---|
+| ... | Commit | ... | ... |
+| ... | Pull Request | ... | ... |
+| ... | Issue | ... | ... |
+
+---
+
+## ⚙️ Dashboard
+
+**Data source:** GitHub API  
+**Account:** `Bangkah`  
+**Last synchronization:** ...
