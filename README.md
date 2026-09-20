@@ -10,10 +10,10 @@
 |---|---:|
 | Username | `Bangkah` |
 | Name | Muhammad Dhiyaul Atha |
-| Followers | 44 |
-| Following | 19 |
+| Followers | 48 |
+| Following | 22 |
 | Account Created | 2023-08-02 |
-| Public Repositories | 50 |
+| Public Repositories | 51 |
 | Public Gists | 1 |
 | Account Type | User |
 
@@ -23,15 +23,15 @@
 
 | Metric | Value |
 |---|---:|
-| Total Repositories | 50 |
+| Total Repositories | 51 |
 | Original Repositories | 43 |
-| Forked Repositories | 7 |
+| Forked Repositories | 8 |
 | Archived Repositories | 1 |
-| Public Repositories | 50 |
-| Total Stars Received | 354 |
+| Public Repositories | 51 |
+| Total Stars Received | 359 |
 | Total Forks Received | 9 |
-| Total Watchers | 354 |
-| Repositories with Stars | 37 |
+| Total Watchers | 359 |
+| Repositories with Stars | 40 |
 | Repositories with Forks | 8 |
 
 ---
@@ -40,10 +40,10 @@
 
 | Metric | Value |
 |---|---:|
-| Stars Received | 354 |
+| Stars Received | 359 |
 | Forks Received | 9 |
-| Watchers | 354 |
-| Repositories with Stars | 37 |
+| Watchers | 359 |
+| Repositories with Stars | 40 |
 | Repositories with Forks | 8 |
 
 ---
@@ -52,7 +52,7 @@
 
 | # | Repository | Stars | Forks | Issues | Updated |
 |---:|---|---:|---:|---:|---|
-| 1 | [portfolio](https://github.com/Bangkah/portfolio) | 16 | 1 | 1 | 2026-09-10 |
+| 1 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 1 | 2026-09-19 |
 | 2 | [ABSENSI-KARYAWAN](https://github.com/Bangkah/ABSENSI-KARYAWAN) | 16 | 1 | 0 | 2026-07-21 |
 | 3 | [mantap-ai](https://github.com/Bangkah/mantap-ai) | 15 | 0 | 2 | 2026-07-21 |
 | 4 | [Muslim-Life](https://github.com/Bangkah/Muslim-Life) | 14 | 2 | 2 | 2026-09-07 |
@@ -69,16 +69,16 @@
 
 | # | Repository | Stars | Forks | Last Activity |
 |---:|---|---:|---:|---|
-| 1 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-09-18 |
-| 2 | [firewall-checker](https://github.com/Bangkah/firewall-checker) | 0 | 0 | 2026-09-11 |
-| 3 | [portfolio](https://github.com/Bangkah/portfolio) | 16 | 1 | 2026-09-10 |
-| 4 | [apache-auth-bypass-poc](https://github.com/Bangkah/apache-auth-bypass-poc) | 0 | 0 | 2026-09-09 |
-| 5 | [linux-portfolio](https://github.com/Bangkah/linux-portfolio) | 0 | 0 | 2026-09-09 |
-| 6 | [Bangk-Shield](https://github.com/Bangkah/Bangk-Shield) | 3 | 0 | 2026-09-08 |
-| 7 | [webpolicy_v2](https://github.com/Bangkah/webpolicy_v2) | 0 | 0 | 2026-09-08 |
-| 8 | [CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System) | 0 | 0 | 2026-09-02 |
-| 9 | [community](https://github.com/Bangkah/community) | 9 | 0 | 2026-08-19 |
-| 10 | [SMSML-Dicoding-Muhammad-Dhiyaul-Atha](https://github.com/Bangkah/SMSML-Dicoding-Muhammad-Dhiyaul-Atha) | 0 | 0 | 2026-08-16 |
+| 1 | [aigemini](https://github.com/Bangkah/aigemini) | 0 | 0 | 2026-09-19 |
+| 2 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-09-19 |
+| 3 | [firewall-checker](https://github.com/Bangkah/firewall-checker) | 1 | 0 | 2026-09-11 |
+| 4 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 2026-09-10 |
+| 5 | [apache-auth-bypass-poc](https://github.com/Bangkah/apache-auth-bypass-poc) | 1 | 0 | 2026-09-09 |
+| 6 | [linux-portfolio](https://github.com/Bangkah/linux-portfolio) | 1 | 0 | 2026-09-09 |
+| 7 | [Bangk-Shield](https://github.com/Bangkah/Bangk-Shield) | 4 | 0 | 2026-09-08 |
+| 8 | [webpolicy_v2](https://github.com/Bangkah/webpolicy_v2) | 0 | 0 | 2026-09-08 |
+| 9 | [CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System) | 0 | 0 | 2026-09-02 |
+| 10 | [community](https://github.com/Bangkah/community) | 9 | 0 | 2026-08-19 |
 
 ---
 
@@ -86,10 +86,10 @@
 
 | Language | Percentage |
 |---|---:|
-| Rust | 68.10% |
-| TypeScript | 6.53% |
-| PHP | 5.14% |
-| Jupyter Notebook | 4.50% |
+| Rust | 68.02% |
+| TypeScript | 6.52% |
+| PHP | 5.25% |
+| Jupyter Notebook | 4.49% |
 | HTML | 3.72% |
 | JavaScript | 3.27% |
 | PureBasic | 2.38% |
@@ -110,7 +110,7 @@
 |---|---|
 | GitHub Account | `@Bangkah` |
 | Data Source | GitHub REST API |
-| Last Synchronization | 2026-09-19 01:49:34 UTC |
+| Last Synchronization | 2026-09-20 01:51:40 UTC |
 | Dashboard Version | 1.0 |
 
 <!-- DASHBOARD:END -->
