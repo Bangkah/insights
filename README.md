@@ -13,7 +13,7 @@
 | Followers | 51 |
 | Following | 24 |
 | Account Created | 2023-08-02 |
-| Public Repositories | 50 |
+| Public Repositories | 51 |
 | Public Gists | 1 |
 | Account Type | User |
 
@@ -23,15 +23,15 @@
 
 | Metric | Value |
 |---|---:|
-| Total Repositories | 50 |
-| Original Repositories | 43 |
+| Total Repositories | 51 |
+| Original Repositories | 44 |
 | Forked Repositories | 7 |
 | Archived Repositories | 1 |
-| Public Repositories | 50 |
-| Total Stars Received | 359 |
+| Public Repositories | 51 |
+| Total Stars Received | 360 |
 | Total Forks Received | 9 |
-| Total Watchers | 359 |
-| Repositories with Stars | 40 |
+| Total Watchers | 360 |
+| Repositories with Stars | 41 |
 | Repositories with Forks | 8 |
 
 ---
@@ -40,10 +40,10 @@
 
 | Metric | Value |
 |---|---:|
-| Stars Received | 359 |
+| Stars Received | 360 |
 | Forks Received | 9 |
-| Watchers | 359 |
-| Repositories with Stars | 40 |
+| Watchers | 360 |
+| Repositories with Stars | 41 |
 | Repositories with Forks | 8 |
 
 ---
@@ -69,16 +69,16 @@
 
 | # | Repository | Stars | Forks | Last Activity |
 |---:|---|---:|---:|---|
-| 1 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-09-22 |
-| 2 | [firewall-checker](https://github.com/Bangkah/firewall-checker) | 1 | 0 | 2026-09-11 |
-| 3 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 2026-09-10 |
-| 4 | [apache-auth-bypass-poc](https://github.com/Bangkah/apache-auth-bypass-poc) | 1 | 0 | 2026-09-09 |
-| 5 | [linux-portfolio](https://github.com/Bangkah/linux-portfolio) | 1 | 0 | 2026-09-09 |
-| 6 | [Bangk-Shield](https://github.com/Bangkah/Bangk-Shield) | 4 | 0 | 2026-09-08 |
-| 7 | [webpolicy_v2](https://github.com/Bangkah/webpolicy_v2) | 0 | 0 | 2026-09-08 |
-| 8 | [CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System) | 0 | 0 | 2026-09-02 |
-| 9 | [community](https://github.com/Bangkah/community) | 9 | 0 | 2026-08-19 |
-| 10 | [SMSML-Dicoding-Muhammad-Dhiyaul-Atha](https://github.com/Bangkah/SMSML-Dicoding-Muhammad-Dhiyaul-Atha) | 0 | 0 | 2026-08-16 |
+| 1 | [pcd](https://github.com/Bangkah/pcd) | 0 | 0 | 2026-09-23 |
+| 2 | [CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System) | 1 | 0 | 2026-09-23 |
+| 3 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-09-23 |
+| 4 | [firewall-checker](https://github.com/Bangkah/firewall-checker) | 1 | 0 | 2026-09-11 |
+| 5 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 2026-09-10 |
+| 6 | [apache-auth-bypass-poc](https://github.com/Bangkah/apache-auth-bypass-poc) | 1 | 0 | 2026-09-09 |
+| 7 | [linux-portfolio](https://github.com/Bangkah/linux-portfolio) | 1 | 0 | 2026-09-09 |
+| 8 | [Bangk-Shield](https://github.com/Bangkah/Bangk-Shield) | 4 | 0 | 2026-09-08 |
+| 9 | [webpolicy_v2](https://github.com/Bangkah/webpolicy_v2) | 0 | 0 | 2026-09-08 |
+| 10 | [community](https://github.com/Bangkah/community) | 9 | 0 | 2026-08-19 |
 
 ---
 
@@ -86,15 +86,15 @@
 
 | Language | Percentage |
 |---|---:|
-| Rust | 68.10% |
-| TypeScript | 6.53% |
+| Rust | 68.01% |
+| TypeScript | 6.52% |
 | PHP | 5.14% |
-| Jupyter Notebook | 4.50% |
+| Jupyter Notebook | 4.49% |
 | HTML | 3.72% |
 | JavaScript | 3.27% |
 | PureBasic | 2.38% |
 | Blade | 1.37% |
-| Python | 1.20% |
+| Python | 1.33% |
 | TeX | 1.12% |
 | Shell | 0.82% |
 | CSS | 0.56% |
@@ -110,7 +110,7 @@
 |---|---|
 | GitHub Account | `@Bangkah` |
 | Data Source | GitHub REST API |
-| Last Synchronization | 2026-09-23 01:58:44 UTC |
+| Last Synchronization | 2026-09-24 01:47:58 UTC |
 | Dashboard Version | 1.0 |
 
 <!-- DASHBOARD:END -->
