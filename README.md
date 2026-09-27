@@ -10,7 +10,7 @@
 |---|---:|
 | Username | `Bangkah` |
 | Name | Muhammad Dhiyaul Atha |
-| Followers | 53 |
+| Followers | 51 |
 | Following | 24 |
 | Account Created | 2023-08-02 |
 | Public Repositories | 45 |
@@ -69,7 +69,7 @@
 
 | # | Repository | Stars | Forks | Last Activity |
 |---:|---|---:|---:|---|
-| 1 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-09-25 |
+| 1 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-09-26 |
 | 2 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 2026-09-24 |
 | 3 | [pcd](https://github.com/Bangkah/pcd) | 0 | 0 | 2026-09-23 |
 | 4 | [CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System) | 1 | 0 | 2026-09-23 |
@@ -110,7 +110,7 @@
 |---|---|
 | GitHub Account | `@Bangkah` |
 | Data Source | GitHub REST API |
-| Last Synchronization | 2026-09-26 02:10:08 UTC |
+| Last Synchronization | 2026-09-27 02:02:17 UTC |
 | Dashboard Version | 1.0 |
 
 <!-- DASHBOARD:END -->
