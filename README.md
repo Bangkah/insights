@@ -11,9 +11,9 @@
 | Username | `Bangkah` |
 | Name | Muhammad Dhiyaul Atha |
 | Followers | 51 |
-| Following | 24 |
+| Following | 25 |
 | Account Created | 2023-08-02 |
-| Public Repositories | 45 |
+| Public Repositories | 46 |
 | Public Gists | 1 |
 | Account Type | User |
 
@@ -23,11 +23,11 @@
 
 | Metric | Value |
 |---|---:|
-| Total Repositories | 45 |
-| Original Repositories | 44 |
+| Total Repositories | 46 |
+| Original Repositories | 45 |
 | Forked Repositories | 1 |
 | Archived Repositories | 1 |
-| Public Repositories | 45 |
+| Public Repositories | 46 |
 | Total Stars Received | 320 |
 | Total Forks Received | 9 |
 | Total Watchers | 320 |
@@ -69,16 +69,16 @@
 
 | # | Repository | Stars | Forks | Last Activity |
 |---:|---|---:|---:|---|
-| 1 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-09-26 |
-| 2 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 2026-09-24 |
-| 3 | [pcd](https://github.com/Bangkah/pcd) | 0 | 0 | 2026-09-23 |
-| 4 | [CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System) | 1 | 0 | 2026-09-23 |
-| 5 | [firewall-checker](https://github.com/Bangkah/firewall-checker) | 1 | 0 | 2026-09-11 |
-| 6 | [apache-auth-bypass-poc](https://github.com/Bangkah/apache-auth-bypass-poc) | 1 | 0 | 2026-09-09 |
-| 7 | [linux-portfolio](https://github.com/Bangkah/linux-portfolio) | 1 | 0 | 2026-09-09 |
-| 8 | [Bangk-Shield](https://github.com/Bangkah/Bangk-Shield) | 4 | 0 | 2026-09-08 |
-| 9 | [SMSML-Dicoding-Muhammad-Dhiyaul-Atha](https://github.com/Bangkah/SMSML-Dicoding-Muhammad-Dhiyaul-Atha) | 0 | 0 | 2026-08-16 |
-| 10 | [Proyek-Klasifikasi-Gambar](https://github.com/Bangkah/Proyek-Klasifikasi-Gambar) | 0 | 0 | 2026-08-15 |
+| 1 | [biometric-smart-door](https://github.com/Bangkah/biometric-smart-door) | 0 | 0 | 2026-09-28 |
+| 2 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-09-27 |
+| 3 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 2026-09-24 |
+| 4 | [pcd](https://github.com/Bangkah/pcd) | 0 | 0 | 2026-09-23 |
+| 5 | [CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System) | 1 | 0 | 2026-09-23 |
+| 6 | [firewall-checker](https://github.com/Bangkah/firewall-checker) | 1 | 0 | 2026-09-11 |
+| 7 | [apache-auth-bypass-poc](https://github.com/Bangkah/apache-auth-bypass-poc) | 1 | 0 | 2026-09-09 |
+| 8 | [linux-portfolio](https://github.com/Bangkah/linux-portfolio) | 1 | 0 | 2026-09-09 |
+| 9 | [Bangk-Shield](https://github.com/Bangkah/Bangk-Shield) | 4 | 0 | 2026-09-08 |
+| 10 | [SMSML-Dicoding-Muhammad-Dhiyaul-Atha](https://github.com/Bangkah/SMSML-Dicoding-Muhammad-Dhiyaul-Atha) | 0 | 0 | 2026-08-16 |
 
 ---
 
@@ -110,7 +110,7 @@
 |---|---|
 | GitHub Account | `@Bangkah` |
 | Data Source | GitHub REST API |
-| Last Synchronization | 2026-09-27 02:02:17 UTC |
+| Last Synchronization | 2026-09-28 02:07:34 UTC |
 | Dashboard Version | 1.0 |
 
 <!-- DASHBOARD:END -->
