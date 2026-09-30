@@ -69,10 +69,10 @@
 
 | # | Repository | Stars | Forks | Last Activity |
 |---:|---|---:|---:|---|
-| 1 | [Bangk-Shield](https://github.com/Bangkah/Bangk-Shield) | 4 | 0 | 2026-09-29 |
-| 2 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-09-28 |
-| 3 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-09-28 |
-| 4 | [biometric-smart-door](https://github.com/Bangkah/biometric-smart-door) | 0 | 0 | 2026-09-28 |
+| 1 | [biometric-smart-door](https://github.com/Bangkah/biometric-smart-door) | 0 | 0 | 2026-09-29 |
+| 2 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-09-29 |
+| 3 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-09-29 |
+| 4 | [Bangk-Shield](https://github.com/Bangkah/Bangk-Shield) | 4 | 0 | 2026-09-29 |
 | 5 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 2026-09-24 |
 | 6 | [pcd](https://github.com/Bangkah/pcd) | 0 | 0 | 2026-09-23 |
 | 7 | [CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System) | 1 | 0 | 2026-09-23 |
@@ -86,21 +86,21 @@
 
 | Language | Percentage |
 |---|---:|
-| Jupyter Notebook | 18.79% |
-| PHP | 14.63% |
-| HTML | 14.10% |
-| JavaScript | 13.46% |
-| PureBasic | 9.95% |
-| TypeScript | 8.36% |
-| Blade | 5.58% |
-| TeX | 4.70% |
-| Python | 3.83% |
-| CSS | 2.04% |
-| Shell | 1.82% |
-| Go | 1.20% |
-| Java | 0.56% |
+| Jupyter Notebook | 18.43% |
+| PHP | 14.34% |
+| HTML | 13.83% |
+| JavaScript | 13.19% |
+| PureBasic | 9.76% |
+| TypeScript | 8.20% |
+| Blade | 5.47% |
+| TeX | 4.61% |
+| Python | 3.84% |
+| CSS | 2.00% |
+| Shell | 1.79% |
+| C++ | 1.67% |
+| Go | 1.17% |
+| Java | 0.55% |
 | PowerShell | 0.35% |
-| Astro | 0.32% |
 
 ---
 
@@ -110,7 +110,7 @@
 |---|---|
 | GitHub Account | `@Bangkah` |
 | Data Source | GitHub REST API |
-| Last Synchronization | 2026-09-29 02:53:56 UTC |
+| Last Synchronization | 2026-09-30 02:35:24 UTC |
 | Dashboard Version | 1.0 |
 
 <!-- DASHBOARD:END -->
