@@ -13,7 +13,7 @@
 | Followers | 51 |
 | Following | 26 |
 | Account Created | 2023-08-02 |
-| Public Repositories | 49 |
+| Public Repositories | 50 |
 | Public Gists | 1 |
 | Account Type | User |
 
@@ -23,11 +23,11 @@
 
 | Metric | Value |
 |---|---:|
-| Total Repositories | 49 |
-| Original Repositories | 46 |
+| Total Repositories | 50 |
+| Original Repositories | 47 |
 | Forked Repositories | 3 |
 | Archived Repositories | 1 |
-| Public Repositories | 49 |
+| Public Repositories | 50 |
 | Total Stars Received | 320 |
 | Total Forks Received | 9 |
 | Total Watchers | 320 |
@@ -69,16 +69,16 @@
 
 | # | Repository | Stars | Forks | Last Activity |
 |---:|---|---:|---:|---|
-| 1 | [devops-daily](https://github.com/Bangkah/devops-daily) | 0 | 0 | 2026-10-04 |
-| 2 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-10-04 |
-| 3 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-10-04 |
-| 4 | [CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System) | 1 | 0 | 2026-10-03 |
-| 5 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 2026-10-03 |
-| 6 | [webpolicy_v2](https://github.com/Bangkah/webpolicy_v2) | 0 | 0 | 2026-10-01 |
-| 7 | [Bangk-Shield](https://github.com/Bangkah/Bangk-Shield) | 4 | 0 | 2026-10-01 |
-| 8 | [Muslim-Life](https://github.com/Bangkah/Muslim-Life) | 14 | 2 | 2026-09-30 |
-| 9 | [biometric-smart-door](https://github.com/Bangkah/biometric-smart-door) | 0 | 0 | 2026-09-29 |
-| 10 | [pcd](https://github.com/Bangkah/pcd) | 0 | 0 | 2026-09-23 |
+| 1 | [EcoID](https://github.com/Bangkah/EcoID) | 0 | 0 | 2026-10-06 |
+| 2 | [devops-daily](https://github.com/Bangkah/devops-daily) | 0 | 0 | 2026-10-05 |
+| 3 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-10-05 |
+| 4 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-10-05 |
+| 5 | [CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System) | 1 | 0 | 2026-10-03 |
+| 6 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 2026-10-03 |
+| 7 | [webpolicy_v2](https://github.com/Bangkah/webpolicy_v2) | 0 | 0 | 2026-10-01 |
+| 8 | [Bangk-Shield](https://github.com/Bangkah/Bangk-Shield) | 4 | 0 | 2026-10-01 |
+| 9 | [Muslim-Life](https://github.com/Bangkah/Muslim-Life) | 14 | 2 | 2026-09-30 |
+| 10 | [biometric-smart-door](https://github.com/Bangkah/biometric-smart-door) | 0 | 0 | 2026-09-29 |
 
 ---
 
@@ -86,15 +86,15 @@
 
 | Language | Percentage |
 |---|---:|
-| TypeScript | 52.84% |
-| PHP | 9.78% |
-| Jupyter Notebook | 8.55% |
-| JavaScript | 7.12% |
-| HTML | 6.42% |
-| PureBasic | 4.53% |
-| Blade | 2.61% |
-| TeX | 2.14% |
-| Python | 1.78% |
+| TypeScript | 52.54% |
+| PHP | 9.73% |
+| Jupyter Notebook | 8.50% |
+| JavaScript | 7.07% |
+| HTML | 6.38% |
+| PureBasic | 4.50% |
+| Blade | 2.59% |
+| Python | 2.34% |
+| TeX | 2.13% |
 | CSS | 1.22% |
 | Shell | 0.84% |
 | C++ | 0.77% |
@@ -110,7 +110,7 @@
 |---|---|
 | GitHub Account | `@Bangkah` |
 | Data Source | GitHub REST API |
-| Last Synchronization | 2026-10-05 02:33:44 UTC |
+| Last Synchronization | 2026-10-06 03:27:43 UTC |
 | Dashboard Version | 1.0 |
 
 <!-- DASHBOARD:END -->
