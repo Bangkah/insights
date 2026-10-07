@@ -69,16 +69,16 @@
 
 | # | Repository | Stars | Forks | Last Activity |
 |---:|---|---:|---:|---|
-| 1 | [EcoID](https://github.com/Bangkah/EcoID) | 0 | 0 | 2026-10-06 |
-| 2 | [devops-daily](https://github.com/Bangkah/devops-daily) | 0 | 0 | 2026-10-05 |
-| 3 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-10-05 |
-| 4 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-10-05 |
-| 5 | [CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System) | 1 | 0 | 2026-10-03 |
-| 6 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 2026-10-03 |
-| 7 | [webpolicy_v2](https://github.com/Bangkah/webpolicy_v2) | 0 | 0 | 2026-10-01 |
-| 8 | [Bangk-Shield](https://github.com/Bangkah/Bangk-Shield) | 4 | 0 | 2026-10-01 |
-| 9 | [Muslim-Life](https://github.com/Bangkah/Muslim-Life) | 14 | 2 | 2026-09-30 |
-| 10 | [biometric-smart-door](https://github.com/Bangkah/biometric-smart-door) | 0 | 0 | 2026-09-29 |
+| 1 | [biometric-smart-door](https://github.com/Bangkah/biometric-smart-door) | 0 | 0 | 2026-10-07 |
+| 2 | [EcoID](https://github.com/Bangkah/EcoID) | 0 | 0 | 2026-10-06 |
+| 3 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-10-06 |
+| 4 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-10-06 |
+| 5 | [devops-daily](https://github.com/Bangkah/devops-daily) | 0 | 0 | 2026-10-05 |
+| 6 | [CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System) | 1 | 0 | 2026-10-03 |
+| 7 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 2026-10-03 |
+| 8 | [webpolicy_v2](https://github.com/Bangkah/webpolicy_v2) | 0 | 0 | 2026-10-01 |
+| 9 | [Bangk-Shield](https://github.com/Bangkah/Bangk-Shield) | 4 | 0 | 2026-10-01 |
+| 10 | [Muslim-Life](https://github.com/Bangkah/Muslim-Life) | 14 | 2 | 2026-09-30 |
 
 ---
 
@@ -86,19 +86,19 @@
 
 | Language | Percentage |
 |---|---:|
-| TypeScript | 52.54% |
-| PHP | 9.73% |
-| Jupyter Notebook | 8.50% |
-| JavaScript | 7.07% |
-| HTML | 6.38% |
-| PureBasic | 4.50% |
-| Blade | 2.59% |
-| Python | 2.34% |
-| TeX | 2.13% |
-| CSS | 1.22% |
-| Shell | 0.84% |
-| C++ | 0.77% |
-| Go | 0.55% |
+| TypeScript | 51.85% |
+| PHP | 9.60% |
+| Jupyter Notebook | 8.39% |
+| JavaScript | 7.01% |
+| HTML | 6.44% |
+| PureBasic | 4.44% |
+| Python | 3.47% |
+| Blade | 2.56% |
+| TeX | 2.10% |
+| CSS | 1.20% |
+| Shell | 0.83% |
+| C++ | 0.76% |
+| Go | 0.54% |
 | Java | 0.25% |
 | PowerShell | 0.18% |
 
@@ -110,7 +110,7 @@
 |---|---|
 | GitHub Account | `@Bangkah` |
 | Data Source | GitHub REST API |
-| Last Synchronization | 2026-10-06 03:27:43 UTC |
+| Last Synchronization | 2026-10-07 02:52:01 UTC |
 | Dashboard Version | 1.0 |
 
 <!-- DASHBOARD:END -->
