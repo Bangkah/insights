@@ -10,8 +10,8 @@
 |---|---:|
 | Username | `Bangkah` |
 | Name | Muhammad Dhiyaul Atha |
-| Followers | 52 |
-| Following | 27 |
+| Followers | 53 |
+| Following | 29 |
 | Account Created | 2023-08-02 |
 | Public Repositories | 50 |
 | Public Gists | 1 |
@@ -70,9 +70,9 @@
 | # | Repository | Stars | Forks | Last Activity |
 |---:|---|---:|---:|---|
 | 1 | [EcoID](https://github.com/Bangkah/EcoID) | 0 | 0 | 2026-10-09 |
-| 2 | [biometric-smart-door](https://github.com/Bangkah/biometric-smart-door) | 0 | 0 | 2026-10-08 |
-| 3 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-10-08 |
-| 4 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-10-08 |
+| 2 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-10-09 |
+| 3 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-10-09 |
+| 4 | [biometric-smart-door](https://github.com/Bangkah/biometric-smart-door) | 0 | 0 | 2026-10-08 |
 | 5 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 2026-10-07 |
 | 6 | [devops-daily](https://github.com/Bangkah/devops-daily) | 0 | 0 | 2026-10-05 |
 | 7 | [CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System) | 1 | 0 | 2026-10-03 |
@@ -86,12 +86,12 @@
 
 | Language | Percentage |
 |---|---:|
-| TypeScript | 51.16% |
+| TypeScript | 51.14% |
 | PHP | 9.47% |
 | Jupyter Notebook | 8.28% |
 | JavaScript | 6.92% |
 | HTML | 6.62% |
-| Python | 4.47% |
+| Python | 4.51% |
 | PureBasic | 4.38% |
 | Blade | 2.52% |
 | TeX | 2.07% |
@@ -110,7 +110,7 @@
 |---|---|
 | GitHub Account | `@Bangkah` |
 | Data Source | GitHub REST API |
-| Last Synchronization | 2026-10-09 03:15:35 UTC |
+| Last Synchronization | 2026-10-10 02:55:01 UTC |
 | Dashboard Version | 1.0 |
 
 <!-- DASHBOARD:END -->
