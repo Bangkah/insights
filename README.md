@@ -11,9 +11,9 @@
 | Username | `Bangkah` |
 | Name | Muhammad Dhiyaul Atha |
 | Followers | 53 |
-| Following | 29 |
+| Following | 27 |
 | Account Created | 2023-08-02 |
-| Public Repositories | 50 |
+| Public Repositories | 53 |
 | Public Gists | 1 |
 | Account Type | User |
 
@@ -23,11 +23,11 @@
 
 | Metric | Value |
 |---|---:|
-| Total Repositories | 50 |
-| Original Repositories | 47 |
+| Total Repositories | 53 |
+| Original Repositories | 50 |
 | Forked Repositories | 3 |
 | Archived Repositories | 1 |
-| Public Repositories | 50 |
+| Public Repositories | 53 |
 | Total Stars Received | 320 |
 | Total Forks Received | 9 |
 | Total Watchers | 320 |
@@ -69,16 +69,16 @@
 
 | # | Repository | Stars | Forks | Last Activity |
 |---:|---|---:|---:|---|
-| 1 | [EcoID](https://github.com/Bangkah/EcoID) | 0 | 0 | 2026-10-09 |
-| 2 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-10-09 |
-| 3 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-10-09 |
-| 4 | [biometric-smart-door](https://github.com/Bangkah/biometric-smart-door) | 0 | 0 | 2026-10-08 |
-| 5 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 2026-10-07 |
-| 6 | [devops-daily](https://github.com/Bangkah/devops-daily) | 0 | 0 | 2026-10-05 |
-| 7 | [CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System) | 1 | 0 | 2026-10-03 |
-| 8 | [webpolicy_v2](https://github.com/Bangkah/webpolicy_v2) | 0 | 0 | 2026-10-01 |
-| 9 | [Bangk-Shield](https://github.com/Bangkah/Bangk-Shield) | 4 | 0 | 2026-10-01 |
-| 10 | [Muslim-Life](https://github.com/Bangkah/Muslim-Life) | 14 | 2 | 2026-09-30 |
+| 1 | [tip-calculator](https://github.com/Bangkah/tip-calculator) | 0 | 0 | 2026-10-10 |
+| 2 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-10-10 |
+| 3 | [getting-started-with-github-copilot](https://github.com/Bangkah/getting-started-with-github-copilot) | 0 | 0 | 2026-10-10 |
+| 4 | [intro-to-repository-management](https://github.com/Bangkah/intro-to-repository-management) | 0 | 0 | 2026-10-10 |
+| 5 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-10-10 |
+| 6 | [EcoID](https://github.com/Bangkah/EcoID) | 0 | 0 | 2026-10-09 |
+| 7 | [biometric-smart-door](https://github.com/Bangkah/biometric-smart-door) | 0 | 0 | 2026-10-08 |
+| 8 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 2026-10-07 |
+| 9 | [devops-daily](https://github.com/Bangkah/devops-daily) | 0 | 0 | 2026-10-05 |
+| 10 | [CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System) | 1 | 0 | 2026-10-03 |
 
 ---
 
@@ -86,18 +86,18 @@
 
 | Language | Percentage |
 |---|---:|
-| TypeScript | 51.14% |
-| PHP | 9.47% |
-| Jupyter Notebook | 8.28% |
-| JavaScript | 6.92% |
-| HTML | 6.62% |
-| Python | 4.51% |
-| PureBasic | 4.38% |
-| Blade | 2.52% |
-| TeX | 2.07% |
-| CSS | 1.18% |
+| TypeScript | 50.79% |
+| PHP | 9.40% |
+| Jupyter Notebook | 8.22% |
+| JavaScript | 7.12% |
+| HTML | 6.71% |
+| Python | 4.65% |
+| PureBasic | 4.35% |
+| Blade | 2.51% |
+| TeX | 2.05% |
+| CSS | 1.30% |
 | Shell | 0.82% |
-| C++ | 0.75% |
+| C++ | 0.74% |
 | Go | 0.53% |
 | Java | 0.24% |
 | PowerShell | 0.17% |
@@ -110,7 +110,7 @@
 |---|---|
 | GitHub Account | `@Bangkah` |
 | Data Source | GitHub REST API |
-| Last Synchronization | 2026-10-10 02:55:01 UTC |
+| Last Synchronization | 2026-10-11 02:24:27 UTC |
 | Dashboard Version | 1.0 |
 
 <!-- DASHBOARD:END -->
