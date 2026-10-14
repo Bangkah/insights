@@ -13,7 +13,7 @@
 | Followers | 53 |
 | Following | 27 |
 | Account Created | 2023-08-02 |
-| Public Repositories | 53 |
+| Public Repositories | 54 |
 | Public Gists | 1 |
 | Account Type | User |
 
@@ -23,11 +23,11 @@
 
 | Metric | Value |
 |---|---:|
-| Total Repositories | 53 |
-| Original Repositories | 50 |
+| Total Repositories | 54 |
+| Original Repositories | 51 |
 | Forked Repositories | 3 |
 | Archived Repositories | 1 |
-| Public Repositories | 53 |
+| Public Repositories | 54 |
 | Total Stars Received | 320 |
 | Total Forks Received | 9 |
 | Total Watchers | 320 |
@@ -69,16 +69,16 @@
 
 | # | Repository | Stars | Forks | Last Activity |
 |---:|---|---:|---:|---|
-| 1 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-10-12 |
-| 2 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-10-12 |
-| 3 | [tip-calculator](https://github.com/Bangkah/tip-calculator) | 0 | 0 | 2026-10-10 |
-| 4 | [getting-started-with-github-copilot](https://github.com/Bangkah/getting-started-with-github-copilot) | 0 | 0 | 2026-10-10 |
-| 5 | [intro-to-repository-management](https://github.com/Bangkah/intro-to-repository-management) | 0 | 0 | 2026-10-10 |
-| 6 | [EcoID](https://github.com/Bangkah/EcoID) | 0 | 0 | 2026-10-09 |
-| 7 | [biometric-smart-door](https://github.com/Bangkah/biometric-smart-door) | 0 | 0 | 2026-10-08 |
-| 8 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 2026-10-07 |
-| 9 | [devops-daily](https://github.com/Bangkah/devops-daily) | 0 | 0 | 2026-10-05 |
-| 10 | [CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System) | 1 | 0 | 2026-10-03 |
+| 1 | [StrukLokal](https://github.com/Bangkah/StrukLokal) | 0 | 0 | 2026-10-13 |
+| 2 | [pcd](https://github.com/Bangkah/pcd) | 0 | 0 | 2026-10-13 |
+| 3 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-10-13 |
+| 4 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-10-13 |
+| 5 | [tip-calculator](https://github.com/Bangkah/tip-calculator) | 0 | 0 | 2026-10-10 |
+| 6 | [getting-started-with-github-copilot](https://github.com/Bangkah/getting-started-with-github-copilot) | 0 | 0 | 2026-10-10 |
+| 7 | [intro-to-repository-management](https://github.com/Bangkah/intro-to-repository-management) | 0 | 0 | 2026-10-10 |
+| 8 | [EcoID](https://github.com/Bangkah/EcoID) | 0 | 0 | 2026-10-09 |
+| 9 | [biometric-smart-door](https://github.com/Bangkah/biometric-smart-door) | 0 | 0 | 2026-10-08 |
+| 10 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 2026-10-07 |
 
 ---
 
@@ -86,17 +86,17 @@
 
 | Language | Percentage |
 |---|---:|
-| TypeScript | 50.79% |
-| PHP | 9.40% |
-| Jupyter Notebook | 8.22% |
-| JavaScript | 7.12% |
-| HTML | 6.71% |
-| Python | 4.65% |
-| PureBasic | 4.35% |
-| Blade | 2.51% |
+| TypeScript | 50.59% |
+| PHP | 9.37% |
+| Jupyter Notebook | 8.19% |
+| JavaScript | 7.10% |
+| HTML | 6.74% |
+| Python | 4.90% |
+| PureBasic | 4.34% |
+| Blade | 2.50% |
 | TeX | 2.05% |
-| CSS | 1.30% |
-| Shell | 0.82% |
+| CSS | 1.36% |
+| Shell | 0.81% |
 | C++ | 0.74% |
 | Go | 0.53% |
 | Java | 0.24% |
@@ -110,7 +110,7 @@
 |---|---|
 | GitHub Account | `@Bangkah` |
 | Data Source | GitHub REST API |
-| Last Synchronization | 2026-10-13 04:05:11 UTC |
+| Last Synchronization | 2026-10-14 02:19:09 UTC |
 | Dashboard Version | 1.0 |
 
 <!-- DASHBOARD:END -->
