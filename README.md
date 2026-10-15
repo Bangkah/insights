@@ -10,8 +10,8 @@
 |---|---:|
 | Username | `Bangkah` |
 | Name | Muhammad Dhiyaul Atha |
-| Followers | 53 |
-| Following | 27 |
+| Followers | 54 |
+| Following | 28 |
 | Account Created | 2023-08-02 |
 | Public Repositories | 54 |
 | Public Gists | 1 |
@@ -69,10 +69,10 @@
 
 | # | Repository | Stars | Forks | Last Activity |
 |---:|---|---:|---:|---|
-| 1 | [StrukLokal](https://github.com/Bangkah/StrukLokal) | 0 | 0 | 2026-10-13 |
-| 2 | [pcd](https://github.com/Bangkah/pcd) | 0 | 0 | 2026-10-13 |
-| 3 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-10-13 |
-| 4 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-10-13 |
+| 1 | [pcd](https://github.com/Bangkah/pcd) | 0 | 0 | 2026-10-15 |
+| 2 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-10-14 |
+| 3 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-10-14 |
+| 4 | [StrukLokal](https://github.com/Bangkah/StrukLokal) | 0 | 0 | 2026-10-13 |
 | 5 | [tip-calculator](https://github.com/Bangkah/tip-calculator) | 0 | 0 | 2026-10-10 |
 | 6 | [getting-started-with-github-copilot](https://github.com/Bangkah/getting-started-with-github-copilot) | 0 | 0 | 2026-10-10 |
 | 7 | [intro-to-repository-management](https://github.com/Bangkah/intro-to-repository-management) | 0 | 0 | 2026-10-10 |
@@ -86,19 +86,19 @@
 
 | Language | Percentage |
 |---|---:|
-| TypeScript | 50.59% |
-| PHP | 9.37% |
-| Jupyter Notebook | 8.19% |
-| JavaScript | 7.10% |
+| TypeScript | 50.57% |
+| PHP | 9.36% |
+| Jupyter Notebook | 8.18% |
+| JavaScript | 7.09% |
 | HTML | 6.74% |
-| Python | 4.90% |
-| PureBasic | 4.34% |
-| Blade | 2.50% |
+| Python | 4.94% |
+| PureBasic | 4.33% |
+| Blade | 2.49% |
 | TeX | 2.05% |
 | CSS | 1.36% |
 | Shell | 0.81% |
 | C++ | 0.74% |
-| Go | 0.53% |
+| Go | 0.52% |
 | Java | 0.24% |
 | PowerShell | 0.17% |
 
@@ -110,7 +110,7 @@
 |---|---|
 | GitHub Account | `@Bangkah` |
 | Data Source | GitHub REST API |
-| Last Synchronization | 2026-10-14 02:19:09 UTC |
+| Last Synchronization | 2026-10-15 02:00:02 UTC |
 | Dashboard Version | 1.0 |
 
 <!-- DASHBOARD:END -->
