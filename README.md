@@ -13,7 +13,7 @@
 | Followers | 54 |
 | Following | 28 |
 | Account Created | 2023-08-02 |
-| Public Repositories | 56 |
+| Public Repositories | 57 |
 | Public Gists | 1 |
 | Account Type | User |
 
@@ -23,15 +23,15 @@
 
 | Metric | Value |
 |---|---:|
-| Total Repositories | 56 |
-| Original Repositories | 53 |
+| Total Repositories | 57 |
+| Original Repositories | 54 |
 | Forked Repositories | 3 |
 | Archived Repositories | 1 |
-| Public Repositories | 56 |
-| Total Stars Received | 315 |
+| Public Repositories | 57 |
+| Total Stars Received | 316 |
 | Total Forks Received | 9 |
-| Total Watchers | 315 |
-| Repositories with Stars | 33 |
+| Total Watchers | 316 |
+| Repositories with Stars | 34 |
 | Repositories with Forks | 8 |
 
 ---
@@ -40,10 +40,10 @@
 
 | Metric | Value |
 |---|---:|
-| Stars Received | 315 |
+| Stars Received | 316 |
 | Forks Received | 9 |
-| Watchers | 315 |
-| Repositories with Stars | 33 |
+| Watchers | 316 |
+| Repositories with Stars | 34 |
 | Repositories with Forks | 8 |
 
 ---
@@ -69,16 +69,16 @@
 
 | # | Repository | Stars | Forks | Last Activity |
 |---:|---|---:|---:|---|
-| 1 | [portfolio](https://github.com/Bangkah/portfolio) | 16 | 1 | 2026-10-24 |
-| 2 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-10-24 |
-| 3 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-10-24 |
-| 4 | [bangkah-lancher-docs](https://github.com/Bangkah/bangkah-lancher-docs) | 2 | 0 | 2026-10-23 |
-| 5 | [atha-docs](https://github.com/Bangkah/atha-docs) | 1 | 0 | 2026-10-23 |
-| 6 | [Bangk-Shield](https://github.com/Bangkah/Bangk-Shield) | 3 | 0 | 2026-10-23 |
-| 7 | [Muslim-Life](https://github.com/Bangkah/Muslim-Life) | 14 | 2 | 2026-10-23 |
-| 8 | [bfb-demo](https://github.com/Bangkah/bfb-demo) | 0 | 0 | 2026-10-22 |
-| 9 | [BangkahFixBot](https://github.com/Bangkah/BangkahFixBot) | 0 | 0 | 2026-10-22 |
-| 10 | [pcd](https://github.com/Bangkah/pcd) | 0 | 0 | 2026-10-15 |
+| 1 | [rangkul-services](https://github.com/Bangkah/rangkul-services) | 1 | 0 | 2026-10-25 |
+| 2 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-10-25 |
+| 3 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-10-25 |
+| 4 | [portfolio](https://github.com/Bangkah/portfolio) | 16 | 1 | 2026-10-24 |
+| 5 | [bangkah-lancher-docs](https://github.com/Bangkah/bangkah-lancher-docs) | 2 | 0 | 2026-10-23 |
+| 6 | [atha-docs](https://github.com/Bangkah/atha-docs) | 1 | 0 | 2026-10-23 |
+| 7 | [Bangk-Shield](https://github.com/Bangkah/Bangk-Shield) | 3 | 0 | 2026-10-23 |
+| 8 | [Muslim-Life](https://github.com/Bangkah/Muslim-Life) | 14 | 2 | 2026-10-23 |
+| 9 | [bfb-demo](https://github.com/Bangkah/bfb-demo) | 0 | 0 | 2026-10-22 |
+| 10 | [BangkahFixBot](https://github.com/Bangkah/BangkahFixBot) | 0 | 0 | 2026-10-22 |
 
 ---
 
@@ -86,19 +86,19 @@
 
 | Language | Percentage |
 |---|---:|
-| TypeScript | 50.48% |
-| PHP | 9.34% |
-| Jupyter Notebook | 8.16% |
-| JavaScript | 7.08% |
-| HTML | 6.72% |
-| Python | 5.13% |
-| PureBasic | 4.32% |
-| Blade | 2.49% |
-| TeX | 2.04% |
-| CSS | 1.36% |
+| TypeScript | 49.20% |
+| PHP | 9.10% |
+| Jupyter Notebook | 7.96% |
+| Python | 7.50% |
+| JavaScript | 6.90% |
+| HTML | 6.55% |
+| PureBasic | 4.21% |
+| Blade | 2.43% |
+| TeX | 1.99% |
+| CSS | 1.32% |
 | Shell | 0.81% |
-| C++ | 0.74% |
-| Go | 0.52% |
+| C++ | 0.72% |
+| Go | 0.51% |
 | Java | 0.24% |
 | PowerShell | 0.17% |
 
@@ -110,7 +110,7 @@
 |---|---|
 | GitHub Account | `@Bangkah` |
 | Data Source | GitHub REST API |
-| Last Synchronization | 2026-10-25 01:54:12 UTC |
+| Last Synchronization | 2026-10-26 01:56:11 UTC |
 | Dashboard Version | 1.0 |
 
 <!-- DASHBOARD:END -->
