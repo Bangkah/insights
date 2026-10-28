@@ -69,9 +69,9 @@
 
 | # | Repository | Stars | Forks | Last Activity |
 |---:|---|---:|---:|---|
-| 1 | [rangkul-ai](https://github.com/Bangkah/rangkul-ai) | 0 | 0 | 2026-10-27 |
-| 2 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-10-26 |
-| 3 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-10-26 |
+| 1 | [Seance](https://github.com/Bangkah/Seance) | 0 | 0 | 2026-10-27 |
+| 2 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-10-27 |
+| 3 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-10-27 |
 | 4 | [rangkul-services](https://github.com/Bangkah/rangkul-services) | 1 | 0 | 2026-10-25 |
 | 5 | [portfolio](https://github.com/Bangkah/portfolio) | 16 | 1 | 2026-10-24 |
 | 6 | [bangkah-lancher-docs](https://github.com/Bangkah/bangkah-lancher-docs) | 2 | 0 | 2026-10-23 |
@@ -86,19 +86,19 @@
 
 | Language | Percentage |
 |---|---:|
-| TypeScript | 48.57% |
-| PHP | 8.99% |
-| Python | 8.68% |
-| Jupyter Notebook | 7.85% |
-| JavaScript | 6.81% |
-| HTML | 6.47% |
-| PureBasic | 4.16% |
-| Blade | 2.39% |
-| TeX | 1.96% |
+| TypeScript | 48.86% |
+| PHP | 9.04% |
+| Python | 8.12% |
+| Jupyter Notebook | 7.90% |
+| JavaScript | 6.85% |
+| HTML | 6.51% |
+| PureBasic | 4.18% |
+| Blade | 2.41% |
+| TeX | 1.98% |
 | CSS | 1.31% |
 | Shell | 0.80% |
 | C++ | 0.71% |
-| Go | 0.50% |
+| Go | 0.51% |
 | Java | 0.23% |
 | PowerShell | 0.17% |
 
@@ -110,7 +110,7 @@
 |---|---|
 | GitHub Account | `@Bangkah` |
 | Data Source | GitHub REST API |
-| Last Synchronization | 2026-10-27 02:34:16 UTC |
+| Last Synchronization | 2026-10-28 02:43:09 UTC |
 | Dashboard Version | 1.0 |
 
 <!-- DASHBOARD:END -->
