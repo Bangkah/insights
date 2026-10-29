@@ -13,7 +13,7 @@
 | Followers | 54 |
 | Following | 28 |
 | Account Created | 2023-08-02 |
-| Public Repositories | 58 |
+| Public Repositories | 59 |
 | Public Gists | 1 |
 | Account Type | User |
 
@@ -23,11 +23,11 @@
 
 | Metric | Value |
 |---|---:|
-| Total Repositories | 58 |
+| Total Repositories | 59 |
 | Original Repositories | 55 |
-| Forked Repositories | 3 |
+| Forked Repositories | 4 |
 | Archived Repositories | 1 |
-| Public Repositories | 58 |
+| Public Repositories | 59 |
 | Total Stars Received | 316 |
 | Total Forks Received | 9 |
 | Total Watchers | 316 |
@@ -69,16 +69,16 @@
 
 | # | Repository | Stars | Forks | Last Activity |
 |---:|---|---:|---:|---|
-| 1 | [Seance](https://github.com/Bangkah/Seance) | 0 | 0 | 2026-10-27 |
-| 2 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-10-27 |
-| 3 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-10-27 |
-| 4 | [rangkul-services](https://github.com/Bangkah/rangkul-services) | 1 | 0 | 2026-10-25 |
-| 5 | [portfolio](https://github.com/Bangkah/portfolio) | 16 | 1 | 2026-10-24 |
-| 6 | [bangkah-lancher-docs](https://github.com/Bangkah/bangkah-lancher-docs) | 2 | 0 | 2026-10-23 |
-| 7 | [atha-docs](https://github.com/Bangkah/atha-docs) | 1 | 0 | 2026-10-23 |
-| 8 | [Bangk-Shield](https://github.com/Bangkah/Bangk-Shield) | 3 | 0 | 2026-10-23 |
-| 9 | [Muslim-Life](https://github.com/Bangkah/Muslim-Life) | 14 | 2 | 2026-10-23 |
-| 10 | [bfb-demo](https://github.com/Bangkah/bfb-demo) | 0 | 0 | 2026-10-22 |
+| 1 | [bangkah-lancher-docs](https://github.com/Bangkah/bangkah-lancher-docs) | 2 | 0 | 2026-10-28 |
+| 2 | [Seance](https://github.com/Bangkah/Seance) | 0 | 0 | 2026-10-28 |
+| 3 | [pcd](https://github.com/Bangkah/pcd) | 0 | 0 | 2026-10-28 |
+| 4 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-10-28 |
+| 5 | [gohugoid-web](https://github.com/Bangkah/gohugoid-web) | 0 | 0 | 2026-10-28 |
+| 6 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-10-28 |
+| 7 | [rangkul-services](https://github.com/Bangkah/rangkul-services) | 1 | 0 | 2026-10-25 |
+| 8 | [portfolio](https://github.com/Bangkah/portfolio) | 16 | 1 | 2026-10-24 |
+| 9 | [atha-docs](https://github.com/Bangkah/atha-docs) | 1 | 0 | 2026-10-23 |
+| 10 | [Bangk-Shield](https://github.com/Bangkah/Bangk-Shield) | 3 | 0 | 2026-10-23 |
 
 ---
 
@@ -86,15 +86,15 @@
 
 | Language | Percentage |
 |---|---:|
-| TypeScript | 48.86% |
-| PHP | 9.04% |
-| Python | 8.12% |
-| Jupyter Notebook | 7.90% |
-| JavaScript | 6.85% |
-| HTML | 6.51% |
+| TypeScript | 48.77% |
+| PHP | 9.02% |
+| Python | 8.13% |
+| Jupyter Notebook | 7.89% |
+| JavaScript | 6.84% |
+| HTML | 6.67% |
 | PureBasic | 4.18% |
-| Blade | 2.41% |
-| TeX | 1.98% |
+| Blade | 2.40% |
+| TeX | 1.97% |
 | CSS | 1.31% |
 | Shell | 0.80% |
 | C++ | 0.71% |
@@ -110,7 +110,7 @@
 |---|---|
 | GitHub Account | `@Bangkah` |
 | Data Source | GitHub REST API |
-| Last Synchronization | 2026-10-28 02:43:09 UTC |
+| Last Synchronization | 2026-10-29 03:02:09 UTC |
 | Dashboard Version | 1.0 |
 
 <!-- DASHBOARD:END -->
