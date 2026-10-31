@@ -28,10 +28,10 @@
 | Forked Repositories | 4 |
 | Archived Repositories | 1 |
 | Public Repositories | 59 |
-| Total Stars Received | 316 |
+| Total Stars Received | 336 |
 | Total Forks Received | 9 |
-| Total Watchers | 316 |
-| Repositories with Stars | 34 |
+| Total Watchers | 336 |
+| Repositories with Stars | 41 |
 | Repositories with Forks | 8 |
 
 ---
@@ -40,10 +40,10 @@
 
 | Metric | Value |
 |---|---:|
-| Stars Received | 316 |
+| Stars Received | 336 |
 | Forks Received | 9 |
-| Watchers | 316 |
-| Repositories with Stars | 34 |
+| Watchers | 336 |
+| Repositories with Stars | 41 |
 | Repositories with Forks | 8 |
 
 ---
@@ -52,16 +52,16 @@
 
 | # | Repository | Stars | Forks | Issues | Updated |
 |---:|---|---:|---:|---:|---|
-| 1 | [portfolio](https://github.com/Bangkah/portfolio) | 16 | 1 | 1 | 2026-10-21 |
-| 2 | [ABSENSI-KARYAWAN](https://github.com/Bangkah/ABSENSI-KARYAWAN) | 16 | 1 | 0 | 2026-07-21 |
-| 3 | [mantap-ai](https://github.com/Bangkah/mantap-ai) | 15 | 0 | 2 | 2026-07-21 |
-| 4 | [Muslim-Life](https://github.com/Bangkah/Muslim-Life) | 14 | 2 | 2 | 2026-10-23 |
-| 5 | [my-linktree](https://github.com/Bangkah/my-linktree) | 13 | 1 | 0 | 2026-06-22 |
-| 6 | [portofolio-with-php](https://github.com/Bangkah/portofolio-with-php) | 13 | 0 | 0 | 2026-06-22 |
-| 7 | [arch-cyber-toolkit](https://github.com/Bangkah/arch-cyber-toolkit) | 13 | 0 | 0 | 2026-06-22 |
+| 1 | [ABSENSI-KARYAWAN](https://github.com/Bangkah/ABSENSI-KARYAWAN) | 17 | 1 | 0 | 2026-10-30 |
+| 2 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 1 | 2026-10-30 |
+| 3 | [Muslim-Life](https://github.com/Bangkah/Muslim-Life) | 15 | 2 | 2 | 2026-10-30 |
+| 4 | [mantap-ai](https://github.com/Bangkah/mantap-ai) | 15 | 0 | 2 | 2026-07-21 |
+| 5 | [arch-cyber-toolkit](https://github.com/Bangkah/arch-cyber-toolkit) | 14 | 0 | 0 | 2026-10-30 |
+| 6 | [my-linktree](https://github.com/Bangkah/my-linktree) | 13 | 1 | 0 | 2026-06-22 |
+| 7 | [portofolio-with-php](https://github.com/Bangkah/portofolio-with-php) | 13 | 0 | 0 | 2026-06-22 |
 | 8 | [akademik-kampus](https://github.com/Bangkah/akademik-kampus) | 13 | 0 | 0 | 2026-06-22 |
-| 9 | [JADWAL-WAKTU-SHALAT-BERBAGAI-METODE](https://github.com/Bangkah/JADWAL-WAKTU-SHALAT-BERBAGAI-METODE) | 12 | 0 | 0 | 2026-06-22 |
-| 10 | [gudang-tugas](https://github.com/Bangkah/gudang-tugas) | 12 | 0 | 0 | 2026-06-22 |
+| 9 | [setup-archlinux](https://github.com/Bangkah/setup-archlinux) | 12 | 1 | 0 | 2026-10-30 |
+| 10 | [kali-linux-tools](https://github.com/Bangkah/kali-linux-tools) | 12 | 0 | 0 | 2026-10-30 |
 
 ---
 
@@ -69,16 +69,16 @@
 
 | # | Repository | Stars | Forks | Last Activity |
 |---:|---|---:|---:|---|
-| 1 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-10-29 |
-| 2 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-10-29 |
-| 3 | [bangkah-lancher-docs](https://github.com/Bangkah/bangkah-lancher-docs) | 2 | 0 | 2026-10-28 |
-| 4 | [Seance](https://github.com/Bangkah/Seance) | 0 | 0 | 2026-10-28 |
-| 5 | [pcd](https://github.com/Bangkah/pcd) | 0 | 0 | 2026-10-28 |
+| 1 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-10-30 |
+| 2 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-10-30 |
+| 3 | [bangkah-lancher-docs](https://github.com/Bangkah/bangkah-lancher-docs) | 3 | 0 | 2026-10-28 |
+| 4 | [Seance](https://github.com/Bangkah/Seance) | 1 | 0 | 2026-10-28 |
+| 5 | [pcd](https://github.com/Bangkah/pcd) | 1 | 0 | 2026-10-28 |
 | 6 | [gohugoid-web](https://github.com/Bangkah/gohugoid-web) | 0 | 0 | 2026-10-28 |
 | 7 | [rangkul-services](https://github.com/Bangkah/rangkul-services) | 1 | 0 | 2026-10-25 |
-| 8 | [portfolio](https://github.com/Bangkah/portfolio) | 16 | 1 | 2026-10-24 |
-| 9 | [atha-docs](https://github.com/Bangkah/atha-docs) | 1 | 0 | 2026-10-23 |
-| 10 | [Bangk-Shield](https://github.com/Bangkah/Bangk-Shield) | 3 | 0 | 2026-10-23 |
+| 8 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 2026-10-24 |
+| 9 | [atha-docs](https://github.com/Bangkah/atha-docs) | 2 | 0 | 2026-10-23 |
+| 10 | [Bangk-Shield](https://github.com/Bangkah/Bangk-Shield) | 4 | 0 | 2026-10-23 |
 
 ---
 
@@ -110,7 +110,7 @@
 |---|---|
 | GitHub Account | `@Bangkah` |
 | Data Source | GitHub REST API |
-| Last Synchronization | 2026-10-30 03:07:16 UTC |
+| Last Synchronization | 2026-10-31 02:53:34 UTC |
 | Dashboard Version | 1.0 |
 
 <!-- DASHBOARD:END -->
