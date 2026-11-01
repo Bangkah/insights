@@ -52,8 +52,8 @@
 
 | # | Repository | Stars | Forks | Issues | Updated |
 |---:|---|---:|---:|---:|---|
-| 1 | [ABSENSI-KARYAWAN](https://github.com/Bangkah/ABSENSI-KARYAWAN) | 17 | 1 | 0 | 2026-10-30 |
-| 2 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 1 | 2026-10-30 |
+| 1 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 1 | 2026-10-31 |
+| 2 | [ABSENSI-KARYAWAN](https://github.com/Bangkah/ABSENSI-KARYAWAN) | 17 | 1 | 0 | 2026-10-30 |
 | 3 | [Muslim-Life](https://github.com/Bangkah/Muslim-Life) | 15 | 2 | 2 | 2026-10-30 |
 | 4 | [mantap-ai](https://github.com/Bangkah/mantap-ai) | 15 | 0 | 2 | 2026-07-21 |
 | 5 | [arch-cyber-toolkit](https://github.com/Bangkah/arch-cyber-toolkit) | 14 | 0 | 0 | 2026-10-30 |
@@ -69,14 +69,14 @@
 
 | # | Repository | Stars | Forks | Last Activity |
 |---:|---|---:|---:|---|
-| 1 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-10-30 |
-| 2 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-10-30 |
-| 3 | [bangkah-lancher-docs](https://github.com/Bangkah/bangkah-lancher-docs) | 3 | 0 | 2026-10-28 |
-| 4 | [Seance](https://github.com/Bangkah/Seance) | 1 | 0 | 2026-10-28 |
-| 5 | [pcd](https://github.com/Bangkah/pcd) | 1 | 0 | 2026-10-28 |
-| 6 | [gohugoid-web](https://github.com/Bangkah/gohugoid-web) | 0 | 0 | 2026-10-28 |
-| 7 | [rangkul-services](https://github.com/Bangkah/rangkul-services) | 1 | 0 | 2026-10-25 |
-| 8 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 2026-10-24 |
+| 1 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 2026-10-31 |
+| 2 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-10-31 |
+| 3 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-10-31 |
+| 4 | [bangkah-lancher-docs](https://github.com/Bangkah/bangkah-lancher-docs) | 3 | 0 | 2026-10-28 |
+| 5 | [Seance](https://github.com/Bangkah/Seance) | 1 | 0 | 2026-10-28 |
+| 6 | [pcd](https://github.com/Bangkah/pcd) | 1 | 0 | 2026-10-28 |
+| 7 | [gohugoid-web](https://github.com/Bangkah/gohugoid-web) | 0 | 0 | 2026-10-28 |
+| 8 | [rangkul-services](https://github.com/Bangkah/rangkul-services) | 1 | 0 | 2026-10-25 |
 | 9 | [atha-docs](https://github.com/Bangkah/atha-docs) | 2 | 0 | 2026-10-23 |
 | 10 | [Bangk-Shield](https://github.com/Bangkah/Bangk-Shield) | 4 | 0 | 2026-10-23 |
 
@@ -110,7 +110,7 @@
 |---|---|
 | GitHub Account | `@Bangkah` |
 | Data Source | GitHub REST API |
-| Last Synchronization | 2026-10-31 02:53:34 UTC |
+| Last Synchronization | 2026-11-01 02:46:28 UTC |
 | Dashboard Version | 1.0 |
 
 <!-- DASHBOARD:END -->
