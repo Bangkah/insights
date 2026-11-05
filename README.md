@@ -69,12 +69,12 @@
 
 | # | Repository | Stars | Forks | Last Activity |
 |---:|---|---:|---:|---|
-| 1 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-11-03 |
-| 2 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-11-03 |
-| 3 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 2026-10-31 |
-| 4 | [bangkah-lancher-docs](https://github.com/Bangkah/bangkah-lancher-docs) | 3 | 0 | 2026-10-28 |
-| 5 | [Seance](https://github.com/Bangkah/Seance) | 1 | 0 | 2026-10-28 |
-| 6 | [pcd](https://github.com/Bangkah/pcd) | 1 | 0 | 2026-10-28 |
+| 1 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-11-04 |
+| 2 | [pcd](https://github.com/Bangkah/pcd) | 1 | 0 | 2026-11-04 |
+| 3 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-11-04 |
+| 4 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 2026-10-31 |
+| 5 | [bangkah-lancher-docs](https://github.com/Bangkah/bangkah-lancher-docs) | 3 | 0 | 2026-10-28 |
+| 6 | [Seance](https://github.com/Bangkah/Seance) | 1 | 0 | 2026-10-28 |
 | 7 | [gohugoid-web](https://github.com/Bangkah/gohugoid-web) | 0 | 0 | 2026-10-28 |
 | 8 | [rangkul-services](https://github.com/Bangkah/rangkul-services) | 1 | 0 | 2026-10-25 |
 | 9 | [atha-docs](https://github.com/Bangkah/atha-docs) | 2 | 0 | 2026-10-23 |
@@ -86,10 +86,10 @@
 
 | Language | Percentage |
 |---|---:|
-| TypeScript | 48.77% |
+| TypeScript | 48.76% |
 | PHP | 9.02% |
-| Python | 8.13% |
-| Jupyter Notebook | 7.89% |
+| Python | 8.15% |
+| Jupyter Notebook | 7.88% |
 | JavaScript | 6.84% |
 | HTML | 6.67% |
 | PureBasic | 4.18% |
@@ -110,7 +110,7 @@
 |---|---|
 | GitHub Account | `@Bangkah` |
 | Data Source | GitHub REST API |
-| Last Synchronization | 2026-11-04 03:30:23 UTC |
+| Last Synchronization | 2026-11-05 03:52:10 UTC |
 | Dashboard Version | 1.0 |
 
 <!-- DASHBOARD:END -->
