@@ -13,7 +13,7 @@
 | Followers | 54 |
 | Following | 28 |
 | Account Created | 2023-08-02 |
-| Public Repositories | 59 |
+| Public Repositories | 55 |
 | Public Gists | 1 |
 | Account Type | User |
 
@@ -23,15 +23,15 @@
 
 | Metric | Value |
 |---|---:|
-| Total Repositories | 59 |
-| Original Repositories | 55 |
-| Forked Repositories | 4 |
+| Total Repositories | 55 |
+| Original Repositories | 52 |
+| Forked Repositories | 3 |
 | Archived Repositories | 1 |
-| Public Repositories | 59 |
-| Total Stars Received | 336 |
+| Public Repositories | 55 |
+| Total Stars Received | 303 |
 | Total Forks Received | 9 |
-| Total Watchers | 336 |
-| Repositories with Stars | 41 |
+| Total Watchers | 303 |
+| Repositories with Stars | 38 |
 | Repositories with Forks | 8 |
 
 ---
@@ -40,10 +40,10 @@
 
 | Metric | Value |
 |---|---:|
-| Stars Received | 336 |
+| Stars Received | 303 |
 | Forks Received | 9 |
-| Watchers | 336 |
-| Repositories with Stars | 41 |
+| Watchers | 303 |
+| Repositories with Stars | 38 |
 | Repositories with Forks | 8 |
 
 ---
@@ -52,7 +52,7 @@
 
 | # | Repository | Stars | Forks | Issues | Updated |
 |---:|---|---:|---:|---:|---|
-| 1 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 1 | 2026-10-31 |
+| 1 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 1 | 2026-11-05 |
 | 2 | [ABSENSI-KARYAWAN](https://github.com/Bangkah/ABSENSI-KARYAWAN) | 17 | 1 | 0 | 2026-10-30 |
 | 3 | [Muslim-Life](https://github.com/Bangkah/Muslim-Life) | 15 | 2 | 2 | 2026-10-30 |
 | 4 | [mantap-ai](https://github.com/Bangkah/mantap-ai) | 15 | 0 | 2 | 2026-07-21 |
@@ -69,16 +69,16 @@
 
 | # | Repository | Stars | Forks | Last Activity |
 |---:|---|---:|---:|---|
-| 1 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-11-04 |
-| 2 | [pcd](https://github.com/Bangkah/pcd) | 1 | 0 | 2026-11-04 |
-| 3 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-11-04 |
-| 4 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 2026-10-31 |
-| 5 | [bangkah-lancher-docs](https://github.com/Bangkah/bangkah-lancher-docs) | 3 | 0 | 2026-10-28 |
-| 6 | [Seance](https://github.com/Bangkah/Seance) | 1 | 0 | 2026-10-28 |
-| 7 | [gohugoid-web](https://github.com/Bangkah/gohugoid-web) | 0 | 0 | 2026-10-28 |
-| 8 | [rangkul-services](https://github.com/Bangkah/rangkul-services) | 1 | 0 | 2026-10-25 |
-| 9 | [atha-docs](https://github.com/Bangkah/atha-docs) | 2 | 0 | 2026-10-23 |
-| 10 | [Bangk-Shield](https://github.com/Bangkah/Bangk-Shield) | 4 | 0 | 2026-10-23 |
+| 1 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 2026-11-05 |
+| 2 | [devops-daily](https://github.com/Bangkah/devops-daily) | 0 | 0 | 2026-11-05 |
+| 3 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-11-05 |
+| 4 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-11-05 |
+| 5 | [pcd](https://github.com/Bangkah/pcd) | 1 | 0 | 2026-11-04 |
+| 6 | [bangkah-lancher-docs](https://github.com/Bangkah/bangkah-lancher-docs) | 3 | 0 | 2026-10-28 |
+| 7 | [Seance](https://github.com/Bangkah/Seance) | 1 | 0 | 2026-10-28 |
+| 8 | [gohugoid-web](https://github.com/Bangkah/gohugoid-web) | 0 | 0 | 2026-10-28 |
+| 9 | [rangkul-services](https://github.com/Bangkah/rangkul-services) | 1 | 0 | 2026-10-25 |
+| 10 | [atha-docs](https://github.com/Bangkah/atha-docs) | 2 | 0 | 2026-10-23 |
 
 ---
 
@@ -86,21 +86,21 @@
 
 | Language | Percentage |
 |---|---:|
-| TypeScript | 48.76% |
-| PHP | 9.02% |
-| Python | 8.15% |
-| Jupyter Notebook | 7.88% |
-| JavaScript | 6.84% |
-| HTML | 6.67% |
-| PureBasic | 4.18% |
-| Blade | 2.40% |
-| TeX | 1.97% |
-| CSS | 1.31% |
-| Shell | 0.80% |
-| C++ | 0.71% |
-| Go | 0.51% |
-| Java | 0.23% |
-| PowerShell | 0.17% |
+| TypeScript | 50.45% |
+| Python | 8.60% |
+| Jupyter Notebook | 8.32% |
+| JavaScript | 7.07% |
+| HTML | 7.04% |
+| PHP | 5.65% |
+| PureBasic | 4.41% |
+| Blade | 2.14% |
+| TeX | 2.08% |
+| CSS | 1.27% |
+| Shell | 0.84% |
+| C++ | 0.75% |
+| Go | 0.53% |
+| Java | 0.25% |
+| PowerShell | 0.18% |
 
 ---
 
@@ -110,7 +110,7 @@
 |---|---|
 | GitHub Account | `@Bangkah` |
 | Data Source | GitHub REST API |
-| Last Synchronization | 2026-11-05 03:52:10 UTC |
+| Last Synchronization | 2026-11-06 03:50:08 UTC |
 | Dashboard Version | 1.0 |
 
 <!-- DASHBOARD:END -->
