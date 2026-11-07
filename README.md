@@ -69,10 +69,10 @@
 
 | # | Repository | Stars | Forks | Last Activity |
 |---:|---|---:|---:|---|
-| 1 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 2026-11-05 |
-| 2 | [devops-daily](https://github.com/Bangkah/devops-daily) | 0 | 0 | 2026-11-05 |
-| 3 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-11-05 |
-| 4 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-11-05 |
+| 1 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-11-06 |
+| 2 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-11-06 |
+| 3 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 2026-11-05 |
+| 4 | [devops-daily](https://github.com/Bangkah/devops-daily) | 0 | 0 | 2026-11-05 |
 | 5 | [pcd](https://github.com/Bangkah/pcd) | 1 | 0 | 2026-11-04 |
 | 6 | [bangkah-lancher-docs](https://github.com/Bangkah/bangkah-lancher-docs) | 3 | 0 | 2026-10-28 |
 | 7 | [Seance](https://github.com/Bangkah/Seance) | 1 | 0 | 2026-10-28 |
@@ -110,7 +110,7 @@
 |---|---|
 | GitHub Account | `@Bangkah` |
 | Data Source | GitHub REST API |
-| Last Synchronization | 2026-11-06 03:50:08 UTC |
+| Last Synchronization | 2026-11-07 03:24:07 UTC |
 | Dashboard Version | 1.0 |
 
 <!-- DASHBOARD:END -->
