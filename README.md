@@ -29,10 +29,10 @@
 | Archived Repositories | 1 |
 | Public Repositories | 55 |
 | Total Stars Received | 303 |
-| Total Forks Received | 9 |
+| Total Forks Received | 7 |
 | Total Watchers | 303 |
 | Repositories with Stars | 38 |
-| Repositories with Forks | 8 |
+| Repositories with Forks | 7 |
 
 ---
 
@@ -41,10 +41,10 @@
 | Metric | Value |
 |---|---:|
 | Stars Received | 303 |
-| Forks Received | 9 |
+| Forks Received | 7 |
 | Watchers | 303 |
 | Repositories with Stars | 38 |
-| Repositories with Forks | 8 |
+| Repositories with Forks | 7 |
 
 ---
 
@@ -52,9 +52,9 @@
 
 | # | Repository | Stars | Forks | Issues | Updated |
 |---:|---|---:|---:|---:|---|
-| 1 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 1 | 2026-11-05 |
-| 2 | [ABSENSI-KARYAWAN](https://github.com/Bangkah/ABSENSI-KARYAWAN) | 17 | 1 | 0 | 2026-10-30 |
-| 3 | [Muslim-Life](https://github.com/Bangkah/Muslim-Life) | 15 | 2 | 2 | 2026-10-30 |
+| 1 | [ABSENSI-KARYAWAN](https://github.com/Bangkah/ABSENSI-KARYAWAN) | 17 | 1 | 0 | 2026-10-30 |
+| 2 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 0 | 1 | 2026-11-05 |
+| 3 | [Muslim-Life](https://github.com/Bangkah/Muslim-Life) | 15 | 1 | 2 | 2026-10-30 |
 | 4 | [mantap-ai](https://github.com/Bangkah/mantap-ai) | 15 | 0 | 2 | 2026-07-21 |
 | 5 | [arch-cyber-toolkit](https://github.com/Bangkah/arch-cyber-toolkit) | 14 | 0 | 0 | 2026-10-30 |
 | 6 | [my-linktree](https://github.com/Bangkah/my-linktree) | 13 | 1 | 0 | 2026-06-22 |
@@ -69,9 +69,9 @@
 
 | # | Repository | Stars | Forks | Last Activity |
 |---:|---|---:|---:|---|
-| 1 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-11-08 |
-| 2 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-11-08 |
-| 3 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 1 | 2026-11-05 |
+| 1 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-11-09 |
+| 2 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-11-09 |
+| 3 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 0 | 2026-11-05 |
 | 4 | [devops-daily](https://github.com/Bangkah/devops-daily) | 0 | 0 | 2026-11-05 |
 | 5 | [pcd](https://github.com/Bangkah/pcd) | 1 | 0 | 2026-11-04 |
 | 6 | [bangkah-lancher-docs](https://github.com/Bangkah/bangkah-lancher-docs) | 3 | 0 | 2026-10-28 |
@@ -110,7 +110,7 @@
 |---|---|
 | GitHub Account | `@Bangkah` |
 | Data Source | GitHub REST API |
-| Last Synchronization | 2026-11-09 03:12:17 UTC |
+| Last Synchronization | 2026-11-10 04:53:50 UTC |
 | Dashboard Version | 1.0 |
 
 <!-- DASHBOARD:END -->
