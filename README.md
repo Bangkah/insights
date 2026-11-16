@@ -13,7 +13,7 @@
 | Followers | 54 |
 | Following | 28 |
 | Account Created | 2023-08-02 |
-| Public Repositories | 55 |
+| Public Repositories | 54 |
 | Public Gists | 1 |
 | Account Type | User |
 
@@ -23,15 +23,15 @@
 
 | Metric | Value |
 |---|---:|
-| Total Repositories | 55 |
-| Original Repositories | 52 |
+| Total Repositories | 54 |
+| Original Repositories | 51 |
 | Forked Repositories | 3 |
 | Archived Repositories | 1 |
-| Public Repositories | 55 |
-| Total Stars Received | 303 |
+| Public Repositories | 54 |
+| Total Stars Received | 299 |
 | Total Forks Received | 7 |
-| Total Watchers | 303 |
-| Repositories with Stars | 38 |
+| Total Watchers | 299 |
+| Repositories with Stars | 37 |
 | Repositories with Forks | 7 |
 
 ---
@@ -40,10 +40,10 @@
 
 | Metric | Value |
 |---|---:|
-| Stars Received | 303 |
+| Stars Received | 299 |
 | Forks Received | 7 |
-| Watchers | 303 |
-| Repositories with Stars | 38 |
+| Watchers | 299 |
+| Repositories with Stars | 37 |
 | Repositories with Forks | 7 |
 
 ---
@@ -69,8 +69,8 @@
 
 | # | Repository | Stars | Forks | Last Activity |
 |---:|---|---:|---:|---|
-| 1 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-11-14 |
-| 2 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-11-14 |
+| 1 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-11-15 |
+| 2 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-11-15 |
 | 3 | [pcd](https://github.com/Bangkah/pcd) | 1 | 0 | 2026-11-11 |
 | 4 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 0 | 2026-11-05 |
 | 5 | [devops-daily](https://github.com/Bangkah/devops-daily) | 0 | 0 | 2026-11-05 |
@@ -86,21 +86,21 @@
 
 | Language | Percentage |
 |---|---:|
-| TypeScript | 50.40% |
-| Python | 8.69% |
-| Jupyter Notebook | 8.31% |
-| JavaScript | 7.06% |
-| HTML | 7.03% |
-| PHP | 5.64% |
-| PureBasic | 4.40% |
-| Blade | 2.14% |
+| TypeScript | 50.50% |
+| Python | 8.71% |
+| Jupyter Notebook | 8.34% |
+| HTML | 7.05% |
+| JavaScript | 6.84% |
+| PHP | 5.66% |
+| PureBasic | 4.42% |
+| Blade | 2.15% |
 | TeX | 2.08% |
 | CSS | 1.27% |
-| Shell | 0.84% |
+| Shell | 0.85% |
 | C++ | 0.75% |
 | Go | 0.53% |
 | Java | 0.25% |
-| PowerShell | 0.17% |
+| PowerShell | 0.18% |
 
 ---
 
@@ -110,7 +110,7 @@
 |---|---|
 | GitHub Account | `@Bangkah` |
 | Data Source | GitHub REST API |
-| Last Synchronization | 2026-11-15 03:21:15 UTC |
+| Last Synchronization | 2026-11-16 03:23:04 UTC |
 | Dashboard Version | 1.0 |
 
 <!-- DASHBOARD:END -->
