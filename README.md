@@ -13,7 +13,7 @@
 | Followers | 57 |
 | Following | 29 |
 | Account Created | 2023-08-02 |
-| Public Repositories | 54 |
+| Public Repositories | 52 |
 | Public Gists | 1 |
 | Account Type | User |
 
@@ -23,15 +23,15 @@
 
 | Metric | Value |
 |---|---:|
-| Total Repositories | 54 |
-| Original Repositories | 51 |
+| Total Repositories | 52 |
+| Original Repositories | 49 |
 | Forked Repositories | 3 |
-| Archived Repositories | 1 |
-| Public Repositories | 54 |
-| Total Stars Received | 300 |
+| Archived Repositories | 0 |
+| Public Repositories | 52 |
+| Total Stars Received | 291 |
 | Total Forks Received | 6 |
-| Total Watchers | 300 |
-| Repositories with Stars | 37 |
+| Total Watchers | 291 |
+| Repositories with Stars | 35 |
 | Repositories with Forks | 6 |
 
 ---
@@ -40,10 +40,10 @@
 
 | Metric | Value |
 |---|---:|
-| Stars Received | 300 |
+| Stars Received | 291 |
 | Forks Received | 6 |
-| Watchers | 300 |
-| Repositories with Stars | 37 |
+| Watchers | 291 |
+| Repositories with Stars | 35 |
 | Repositories with Forks | 6 |
 
 ---
@@ -69,15 +69,15 @@
 
 | # | Repository | Stars | Forks | Last Activity |
 |---:|---|---:|---:|---|
-| 1 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-11-23 |
-| 2 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-11-23 |
-| 3 | [pcd](https://github.com/Bangkah/pcd) | 1 | 0 | 2026-11-11 |
-| 4 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 0 | 2026-11-05 |
-| 5 | [devops-daily](https://github.com/Bangkah/devops-daily) | 0 | 0 | 2026-11-05 |
-| 6 | [bangkah-lancher-docs](https://github.com/Bangkah/bangkah-lancher-docs) | 4 | 0 | 2026-10-28 |
-| 7 | [Seance](https://github.com/Bangkah/Seance) | 1 | 0 | 2026-10-28 |
-| 8 | [gohugoid-web](https://github.com/Bangkah/gohugoid-web) | 0 | 0 | 2026-10-28 |
-| 9 | [rangkul-services](https://github.com/Bangkah/rangkul-services) | 1 | 0 | 2026-10-25 |
+| 1 | [setup-anv16](https://github.com/Bangkah/setup-anv16) | 1 | 0 | 2026-11-24 |
+| 2 | [Bangkah](https://github.com/Bangkah/Bangkah) | 0 | 0 | 2026-11-24 |
+| 3 | [insights](https://github.com/Bangkah/insights) | 11 | 0 | 2026-11-24 |
+| 4 | [pcd](https://github.com/Bangkah/pcd) | 1 | 0 | 2026-11-11 |
+| 5 | [portfolio](https://github.com/Bangkah/portfolio) | 17 | 0 | 2026-11-05 |
+| 6 | [devops-daily](https://github.com/Bangkah/devops-daily) | 0 | 0 | 2026-11-05 |
+| 7 | [bangkah-lancher-docs](https://github.com/Bangkah/bangkah-lancher-docs) | 4 | 0 | 2026-10-28 |
+| 8 | [Seance](https://github.com/Bangkah/Seance) | 1 | 0 | 2026-10-28 |
+| 9 | [gohugoid-web](https://github.com/Bangkah/gohugoid-web) | 0 | 0 | 2026-10-28 |
 | 10 | [atha-docs](https://github.com/Bangkah/atha-docs) | 2 | 0 | 2026-10-23 |
 
 ---
@@ -86,20 +86,20 @@
 
 | Language | Percentage |
 |---|---:|
-| TypeScript | 50.50% |
-| Python | 8.71% |
-| Jupyter Notebook | 8.34% |
-| HTML | 7.05% |
-| JavaScript | 6.84% |
-| PHP | 5.66% |
-| PureBasic | 4.42% |
-| Blade | 2.15% |
-| TeX | 2.08% |
-| CSS | 1.27% |
-| Shell | 0.85% |
-| C++ | 0.75% |
-| Go | 0.53% |
-| Java | 0.25% |
+| TypeScript | 52.65% |
+| Jupyter Notebook | 8.69% |
+| HTML | 7.35% |
+| JavaScript | 7.13% |
+| Python | 6.35% |
+| PHP | 5.29% |
+| PureBasic | 4.60% |
+| TeX | 2.17% |
+| Blade | 1.40% |
+| CSS | 1.30% |
+| Shell | 0.86% |
+| C++ | 0.79% |
+| Go | 0.56% |
+| Java | 0.26% |
 | PowerShell | 0.18% |
 
 ---
@@ -110,7 +110,7 @@
 |---|---|
 | GitHub Account | `@Bangkah` |
 | Data Source | GitHub REST API |
-| Last Synchronization | 2026-11-24 07:14:01 UTC |
+| Last Synchronization | 2026-11-25 05:47:34 UTC |
 | Dashboard Version | 1.0 |
 
 <!-- DASHBOARD:END -->
